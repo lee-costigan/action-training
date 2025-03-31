@@ -1,7 +1,6 @@
 name: Test gitHub Actions
-
+run-name: test-github-actions
 on: push
-
 jobs: 
   example~job~name:
     runs-on: ubuntu-latest
